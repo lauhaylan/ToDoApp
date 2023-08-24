@@ -1,0 +1,19 @@
+.ToDoLoading-container{
+    margin: 2% 30%;
+    padding: 10px;
+    text-align: center;
+    align-self: center;
+    
+}
+.preloader {
+    animation:spin 2.5s linear infinite;
+}
+    
+.preloader img {
+    width: 30%;
+    height: auto;
+    opacity: 0.2;    
+    /*filter: saturate(6630%) hue-rotate(164deg); cambiar de color */
+}
+
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); }}

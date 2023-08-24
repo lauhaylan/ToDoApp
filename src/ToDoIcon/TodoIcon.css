@@ -1,0 +1,81 @@
+
+.Icon-container {
+  margin: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+   
+  }
+  
+  .Icon-container-check {
+    position: absolute;
+    right: -65px;
+    height: 28.85px;
+    width: 93.5px;
+    background-image: url(Recurso2.svg); 
+    background-repeat:no-repeat;       
+  }
+  .Icon-container-check .Icon-svg{
+    position: absolute;
+    right: 70px;
+  }
+ .listo{
+    position: absolute;
+    right: -45px;
+  }
+  
+  
+  .Icon-container-delete {
+    position: absolute;    
+    background-image: url(Recurso3.svg); 
+    background-repeat:no-repeat;
+    background-size: contain;
+    height: 70px;
+    width: 98px;
+    top: -25px;
+    left: -30px;
+  }
+  
+  .Icon-svg {
+    width: 20px;
+    height: 20px;
+  }
+  
+  
+  .Icon-container-check:hover .Icon-svg {
+    fill: rgb(255, 255, 255);
+  }
+
+  .Icon-container-delete .Icon-svg {
+    width: 15px;
+    height: 15px;
+    /* visibility: hidden; */
+  }
+  .Icon-container-delete:hover .Icon-svg {
+    visibility: visible;
+    fill: white;
+  }
+  
+  @media (max-width: 767px) {
+    .Icon-container-check {
+      height: 23px;
+      width: 74px;
+    }
+    .Icon-container-check .Icon-svg{
+      right: 55px;  
+      width: 14px;
+    height: 14px;    
+    }
+   .listo{
+      right: -50px;
+      font-size: 14px;
+    }
+
+    .Icon-container-delete {
+      height: 56px;
+      width: 78px;
+    }
+  }

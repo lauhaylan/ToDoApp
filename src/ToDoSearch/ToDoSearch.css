@@ -1,0 +1,15 @@
+.search{    
+    display: flex;
+    flex-direction: row;
+    margin: 20px 50px;
+    padding: 0 20px;
+    width: calc(95% - 120px);
+    height: 30px;
+    align-items: center;
+    font-style: italic;
+    color: #935FA7;
+    border-radius: 20px;
+}
+.search:focus{
+    outline-color: rgb(9, 223, 223);
+}

@@ -1,0 +1,27 @@
+.TodoList {
+    margin: 0;
+    padding: 0 ;
+    list-style: none;
+  }
+
+ ul{
+  padding: 15px 0;
+  background-image: url(hojacuad.svg);
+  background-size: contain;
+  background-position: center;
+  padding-inline-start: 25px;
+  /* min-height: 400px; */
+
+ }
+
+ @media (min-width: 768px) {
+  ul{
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    padding-inline-start: 8%;
+    min-height: 300px;
+    flex-wrap:wrap;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,27 @@
+.addTask{
+    border-radius: 20px;
+    height: 40px;
+    width: 40px;
+    z-index: 1;
+    position: fixed;
+    bottom: 10%; 
+    /* justify-content: right ; */
+    right: 20%;
+    align-self: flex-end;
+    font-size: 25px;
+    box-shadow:1px 1px 15px #935FA7;
+}
+.addTask:hover{
+    background-color: #935FA7;
+    color: #ffffff;
+    font-weight: bolder;   
+    font-size: 30px;
+    box-shadow:1px 1px 15px darkslategray;
+
+}
+@media (max-width: 768px) {
+    .addTask{
+        bottom: 7%; 
+        right: 10%;
+    }
+}

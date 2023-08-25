@@ -1,0 +1,24 @@
+ .containerEmptyToDos{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content:center;
+}
+.textEmptyToDos{
+    height: 50px;
+    text-align: center;
+    font-family: 'Borel', cursive;
+    font-size: 24px;
+}
+.carita{
+    margin: auto;
+    padding-left: 15px;
+    display: flex;
+    width: 200px;    
+} 
+@media (min-width: 1440px) {
+    .carita{
+        width: 300px;
+    }
+}

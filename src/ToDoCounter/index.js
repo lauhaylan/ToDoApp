@@ -12,7 +12,7 @@ function ToDoCounter(){
       <div className='ToDoCounter'>
         <img src={miImagen} alt="Mi Imagen" />
       <h1>        
-        Has completado <span>{completedToDos}</span> de <span>{totalToDos}</span> ToDo
+        Has completado <span>{completedToDos}</span> de <span>{totalToDos}</span> To Do
       </h1>
       </div>
     );

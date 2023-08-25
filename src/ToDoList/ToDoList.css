@@ -7,7 +7,7 @@
  ul{
   padding: 15px 0;
   background-image: url(hojacuad.svg);
-  background-size: contain;
+  background-size: cover;
   background-position: center;
   padding-inline-start: 25px;
   /* min-height: 400px; */
@@ -18,7 +18,6 @@
   ul{
     display: flex;
     flex-direction: row;
-    background-size: cover;
     padding-inline-start: 8%;
     min-height: 300px;
     flex-wrap:wrap;

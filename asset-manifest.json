@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToDoApp/static/css/main.f0aca8ed.css",
+    "main.js": "/ToDoApp/static/js/main.47245458.js",
+    "static/media/tablero-madera-fondo.jpg": "/ToDoApp/static/media/tablero-madera-fondo.bae978f75bd70eceadce.jpg",
+    "static/media/hojacuad.svg": "/ToDoApp/static/media/hojacuad.db5c4790b8ae08e9832c.svg",
+    "static/media/carita.svg": "/ToDoApp/static/media/carita.8777c95ad3fa03374313d801fc35f58b.svg",
+    "static/media/Recurso6.svg": "/ToDoApp/static/media/Recurso6.ef18073024e46969744f.svg",
+    "static/media/Recurso1.svg": "/ToDoApp/static/media/Recurso1.8c6a6fdae4e9a468624b.svg",
+    "index.html": "/ToDoApp/index.html",
+    "static/media/Recurso2.svg": "/ToDoApp/static/media/Recurso2.8bf9015ad5cb688fb0b5.svg",
+    "static/media/delete.svg": "/ToDoApp/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/Recurso3.svg": "/ToDoApp/static/media/Recurso3.70ab0e9292115071903fae250b3d71fb.svg",
+    "static/media/check.svg": "/ToDoApp/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.f0aca8ed.css.map": "/ToDoApp/static/css/main.f0aca8ed.css.map",
+    "main.47245458.js.map": "/ToDoApp/static/js/main.47245458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0aca8ed.css",
+    "static/js/main.47245458.js"
+  ]
+}

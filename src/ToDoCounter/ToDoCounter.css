@@ -5,13 +5,12 @@
     padding: 20px; 
     text-shadow:1px 1px 3px darkslategray;
     border-radius: 10px;
-    background-image: url(Recurso6.svg);
+    background-image: url(Recurso6.png);
     background-size: contain;
     background-position: center;
     box-sizing: border-box;
     box-shadow: 5px 5px 10px 1px darkslategray;    
 }
-
 
 .ToDoCounter h1{
     margin: auto;
@@ -30,11 +29,9 @@
     color:rgb(9, 223, 223);
 }
 
-
 .ToDoCounter img{
     width: 35px;
     height: 35px;
-    
 }
 
 @media (max-width: 768px) {

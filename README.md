@@ -22,7 +22,7 @@ Te dejo el link para que la disfrutes
 ## Paseo por ToDoApp
 Esta aplicación es responsive, así que la podes disfrutar tanto en tu celu como en la web :)
 
-** Te presento ToDoApp **
+**Te presento ToDoApp**
 
 ![image](https://github.com/lauhaylan/ToDoApp/assets/94641830/d87effaa-b269-4579-9b3e-ef865c4a945e)
 

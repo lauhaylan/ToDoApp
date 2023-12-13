@@ -21,12 +21,16 @@ Te dejo el link para que la disfrutes
 
 ## Paseo por ToDoApp
 Esta aplicación es responsive, así que la podes disfrutar tanto en tu celu como en la web :)
-Te presento ToDoApp
-![image](https://github.com/lauhaylan/ToDoApp/assets/94641830/843cb9c1-0f6c-4314-aacc-3dd1d67e792f) ![image](https://github.com/lauhaylan/ToDoApp/assets/94641830/b914d61c-9e10-44fc-9006-072c0f4390ff) ![image](https://github.com/lauhaylan/ToDoApp/assets/94641830/34d41865-3d05-4d1c-97e0-1fd0b60cf9bb)
+
+** Te presento ToDoApp **
+
+![image](https://github.com/lauhaylan/ToDoApp/assets/94641830/d87effaa-b269-4579-9b3e-ef865c4a945e)
+
 
 
 
 ### Presentación del autor!
+
 Mi nombre es Laura Háylan
 Estoy iniciando en el mundo de la programación y por ahora vas a ver en mi perfil trabajos de front y UX/UI design 
 esperos disfrutes de mis trabajos :)
